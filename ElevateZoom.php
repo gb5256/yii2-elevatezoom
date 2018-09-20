@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/amilna/yii2-elevatezoom
- * @copyright Copyright (c) 2015 Amilna
+ * @link https://github.com/gb5256/yii2-elevatezoom
+ * @copyright Copyright (c) 2015 gb5256
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace amilna\elevatezoom;
+namespace gb5256\elevatezoom;
 
 use Yii;
 use yii\helpers\Html;
@@ -15,7 +15,7 @@ use yii\helpers\Json;
 /**
  * Usage example:
  * 
- * use amilna\elevatezoom\ElevateZoom;
+ * use gb5256\elevatezoom\ElevateZoom;
  * 
  * echo ElevateZoom::widget([
  * 		'images'=>$images,
