@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class ElevateZoomAsset extends AssetBundle
 {
-    public $sourcePath = '@amilna/elevatezoom/assets';
+    public $sourcePath = '@gb5256/elevatezoom/assets';
 	
 	public $publishOptions = [
         'forceCopy' => YII_DEBUG,
