@@ -2,6 +2,9 @@ Elevate Zoom Widget for Yii2
 ========================
 An elevate zoom widget for Yii2 based on [Elevate Zoom](http://www.elevateweb.co.uk/image-zoom).
 
+THIS IS A FORK OF amilna/yii2-elevatezoom
+DIFFERENCE: I have removed the thumbnail (aka gallery) options as I do not need that).
+
 Installation
 ------------
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
