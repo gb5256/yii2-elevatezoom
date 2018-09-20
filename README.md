@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "amilna/yii2-elevatezoom" "*"
+php composer.phar require "gb5256/yii2-elevatezoom" "*"
 ```
 
 or add
 
 ```json
-"amilna/yii2-elevatezoom" : "*"
+"gb5256/yii2-elevatezoom" : "*"
 ```
 to the require section of your application's `composer.json` file.
 
@@ -25,7 +25,7 @@ Usage
 in View
 
 ```
-	use amilna\elevatezoom\ElevateZoom;
+	use gb5256\elevatezoom\ElevateZoom;
  	
 	$images = ['an url of zoom image 1','an url of zoom image n'];
 
