@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/amilna/yii2-elevatezoom
- * @copyright Copyright (c) 2015 Amilna
+ * @link https://github.com/gb5256/yii2-elevatezoom
+ * @copyright Copyright (c) 2015 gb5256
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace amilna\elevatezoom;
+namespace gb5256\elevatezoom;
 
 use Yii;
 use yii\web\AssetBundle;
