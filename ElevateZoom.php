@@ -104,7 +104,7 @@ class ElevateZoom extends Widget
 				//$thumb .= Html::a(Html::img($small,["class"=>"elevatethumb thumbnail col-xs-3"]),"#",["class"=>"elevatezoom-gallery","data-zoom-image"=>$image,"data-image"=>$medium]);				
 				$n += 1;
 			}
-			//echo ($thumb != ""?"<div id='galez'>".$thumb."</div>":"").'</div>';						
+			echo ($thumb != ""?"<div id='galez'>".$thumb."</div>":"").'</div>';						
 			
 			$script = "
 			//var ez =   $('#elevatezoom-0').data('elevateZoom');
